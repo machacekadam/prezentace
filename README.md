@@ -92,3 +92,5 @@ https://www.jaknainternet.cz/page/1198/jak-hledat-na-internetu/
 42)	WiFi, existující standardy, rychlosti, dosah, zabezpečení, frekvenční pásma, 
 veřejné oprávnění ČTU
 43)	Nějaké jiné téma – dejte vědět jaké (nejlépe probrat osobně), ale vyhrazuji si právo veta
+
+toto je moje repo
